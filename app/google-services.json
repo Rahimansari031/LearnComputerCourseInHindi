@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678306581731",
+    "project_id": "computercourse-91ddd",
+    "storage_bucket": "computercourse-91ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678306581731:android:497eb81927b20874a3c9d6",
+        "android_client_info": {
+          "package_name": "com.computercourses.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678306581731-49bdn11p8lnlkugn5mf0bcmcgv63rt87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw-y71CUlBw_vfQpcMco1Ss-u2J2poSn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678306581731-49bdn11p8lnlkugn5mf0bcmcgv63rt87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
